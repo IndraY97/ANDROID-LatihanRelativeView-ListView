@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LatihanRelativeView-ListView</string>
+    <string-array name="smartphone_array">
+        <item>Xiaomi</item>
+        <item>Nokia</item>
+        <item>Nexus</item>
+        <item>Iphone</item>
+        <item>Samsung</item>
+        <item>Asus</item>
+    </string-array>
+</resources>
